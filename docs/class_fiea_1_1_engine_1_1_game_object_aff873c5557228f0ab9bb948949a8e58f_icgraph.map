@@ -1,0 +1,10 @@
+<map id="Fiea::Engine::GameObject::RemoveAction" name="Fiea::Engine::GameObject::RemoveAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="411,39,586,81"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_game_object.html#a98e7dc26718acd4dba6f1b5bbe0483b8" title=" " alt="" coords="188,39,363,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,63,363,63,363,57,396,57"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="308,25,296,20,275,17,256,19,245,24,240,30,242,38,236,39,235,29,241,20,255,14,275,12,297,14,310,21"/>
+<area shape="rect" id="Node000003" href="$namespace_fiea_1_1_engine_1_1_tests.html#a34b2b8dfbe4f7aa6a3ea0a5f24db384f" title=" " alt="" coords="5,5,140,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,46,140,40,141,35,173,40"/>
+<area shape="rect" id="Node000004" href="$namespace_fiea_1_1_engine_1_1_tests.html#a89b054e30b186f60d7f23c17503265da" title=" " alt="" coords="5,72,140,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="173,80,141,85,140,80,172,74"/>
+</map>

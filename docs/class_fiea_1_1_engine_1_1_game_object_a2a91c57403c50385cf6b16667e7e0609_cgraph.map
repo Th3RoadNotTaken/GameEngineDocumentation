@@ -1,0 +1,24 @@
+<map id="Fiea::Engine::GameObject::Clone" name="Fiea::Engine::GameObject::Clone">
+<area shape="rect" id="Node000001" title="Creates a deep copy of this Attributed object." alt="" coords="5,75,181,117"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_game_object.html#ad3a296dd56ec43cc9f81eef0b1d14db6" title=" " alt="" coords="229,75,404,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,93,213,93,213,99,181,99"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#ad1ae014235d9d8b62b36066c94164148" title=" " alt="" coords="452,29,601,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,74,436,67,438,73,405,80"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a876bebbe7b3149483c43a87f55f4ea99" title=" " alt="" coords="461,120,592,163"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="405,112,447,121,445,127,404,118"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="488,29,487,19,493,10,507,5,527,3,548,5,561,11,559,16,547,10,527,8,508,10,496,15,492,21,494,28"/>
+<area shape="poly" id="edge13_Node000004_Node000004" title=" " alt="" coords="488,120,487,110,493,101,507,95,527,93,548,96,561,102,559,107,547,101,527,99,508,101,496,105,492,111,494,119"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a15bd5993c8ad04da47af440298ebbb30" title=" " alt="" coords="649,77,805,104"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="592,122,656,106,657,111,593,127"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#ac0a7d875e4513b2aca7594abcd4418ef" title=" " alt="" coords="853,48,1003,75"/>
+<area shape="poly" id="edge10_Node000004_Node000006" title=" " alt="" coords="552,117,595,87,621,73,649,63,696,52,745,47,837,48,837,53,746,52,697,58,650,68,623,78,598,92,555,122"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a13000029a2e6cced30b831e466e07cae" title=" " alt="" coords="862,120,994,163"/>
+<area shape="poly" id="edge11_Node000004_Node000007" title=" " alt="" coords="593,139,846,139,846,144,593,144"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a7f70ad5ba0f8a3388543d63d72892575" title=" " alt="" coords="661,179,793,221"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="593,158,647,174,645,179,592,163"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a43a7d187e332a17d2c699bc2c8136a30" title=" " alt="" coords="661,245,793,288"/>
+<area shape="poly" id="edge12_Node000004_Node000009" title=" " alt="" coords="555,161,599,196,651,231,659,236,656,240,648,236,595,200,552,165"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="805,77,837,72,837,77,805,82"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="784,102,848,118,847,124,782,107"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="792,178,847,162,848,167,794,183"/>
+</map>

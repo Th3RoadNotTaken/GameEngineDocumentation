@@ -1,0 +1,11 @@
+<map id="Fiea::Engine::Content::Scope::Search" name="Fiea::Engine::Content::Scope::Search">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,154,115"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Finds a Datum by key." alt="" coords="202,5,350,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,69,196,51,197,56,145,74"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ac4627f740867a929957ce0647f436e02" title=" " alt="" coords="202,72,350,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,91,186,91,186,96,154,96"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a6631343c968c233ab1d9c3e05c3f4fe9" title=" " alt="" coords="398,101,546,144"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="148,113,202,124,295,130,382,128,382,133,295,135,201,129,147,118"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="351,102,383,107,382,112,350,107"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="434,101,433,91,439,82,452,77,472,75,493,77,506,83,504,88,492,82,472,80,454,82,443,87,438,93,440,100"/>
+</map>

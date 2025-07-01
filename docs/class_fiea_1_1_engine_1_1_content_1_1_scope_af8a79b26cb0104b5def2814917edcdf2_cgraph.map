@@ -1,0 +1,12 @@
+<map id="Fiea::Engine::Content::Scope::operator=" name="Fiea::Engine::Content::Scope::operator=">
+<area shape="rect" id="Node000001" title="Move assignment operator." alt="" coords="5,85,154,128"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a9d741d7fb95ccb49ee35dd6d9f779f1e" title="Clears all data in the Scope." alt="" coords="202,56,350,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,93,186,88,187,93,154,98"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a6631343c968c233ab1d9c3e05c3f4fe9" title=" " alt="" coords="594,64,743,107"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="154,107,202,108,350,108,579,92,579,97,350,113,202,113,154,112"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ac4627f740867a929957ce0647f436e02" title=" " alt="" coords="398,5,546,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,56,382,47,384,52,351,61"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="351,76,579,81,579,86,350,82"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="546,46,581,57,580,62,545,51"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="631,64,629,54,636,45,649,39,669,37,690,40,702,46,700,51,688,45,668,43,650,45,639,49,635,55,636,63"/>
+</map>

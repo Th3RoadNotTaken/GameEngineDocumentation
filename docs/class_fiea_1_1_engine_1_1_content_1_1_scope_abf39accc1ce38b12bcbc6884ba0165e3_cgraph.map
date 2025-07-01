@@ -1,0 +1,27 @@
+<map id="Fiea::Engine::Content::Scope::Adopt" name="Fiea::Engine::Content::Scope::Adopt">
+<area shape="rect" id="Node000001" title="Adopts an existing Scope as a child under the specified key." alt="" coords="5,205,154,248"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#aa91d6470fd3d3f402bbb2e765be54455" title="Appends a new Datum with the given key." alt="" coords="202,5,350,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,204,132,134,164,94,200,58,205,54,208,59,203,62,167,97,137,137,94,206"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Finds a Datum by key." alt="" coords="202,72,350,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,203,146,164,200,124,208,120,211,124,203,129,149,168,105,207"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a6e9dfba6e16fddc4efc39b8182dad89f" title=" " alt="" coords="202,139,350,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,202,196,184,197,189,145,207"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a769b8bf0382518e075fb90f62940624c" title="Removes this Scope from its parent." alt="" coords="202,205,350,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="154,224,186,224,186,229,154,229"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a6631343c968c233ab1d9c3e05c3f4fe9" title=" " alt="" coords="398,256,546,299"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="151,246,202,257,295,269,383,274,383,279,295,274,201,263,150,251"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#acb3ba55fc9b39b876cf3334d0305f4fc" title=" " alt="" coords="202,323,350,365"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="115,246,203,302,222,313,219,317,200,306,112,251"/>
+<area shape="rect" id="Node000011" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a23d1f16d9646f024a5dee1f05dbd5a5e" title=" " alt="" coords="202,389,350,432"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="96,247,139,309,169,344,203,375,208,379,205,383,200,379,165,348,135,312,91,250"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#aae7a8c9d75274c388e81a925ad1f49ef" title=" " alt="" coords="398,165,546,208"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="350,209,382,202,383,208,351,214"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="351,243,384,252,382,257,350,248"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="434,256,433,246,439,237,452,231,472,229,493,232,506,238,504,243,492,237,472,235,454,237,443,241,438,247,440,255"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a818f812e4489e57885c88951bc0601b3" title=" " alt="" coords="398,323,546,365"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="350,341,382,341,382,347,350,347"/>
+<area shape="rect" id="Node000010" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a921193447f6e42f596ac0a7694b02830" title=" " alt="" coords="594,352,743,395"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="345,363,398,375,491,381,578,379,579,384,491,386,398,380,344,369"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="547,352,579,357,578,363,546,358"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="631,352,629,342,636,333,649,327,669,325,690,328,702,334,700,339,688,333,668,331,650,333,639,337,635,343,636,351"/>
+</map>

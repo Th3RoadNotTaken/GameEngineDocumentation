@@ -1,0 +1,36 @@
+<map id="Fiea::Engine::Content::Scope::AppendScope" name="Fiea::Engine::Content::Scope::AppendScope">
+<area shape="rect" id="Node000001" title="Appends a new Scope as a child under the specified key." alt="" coords="784,260,940,303"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#aa73231d29c0a0b0bcfbb910e2f913404" title=" " alt="" coords="514,119,703,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="823,252,782,221,735,192,703,177,705,172,738,187,785,216,826,248"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a0a79e65b8a84d1a7275153c32e4d499a" title=" " alt="" coords="227,52,433,95"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="851,245,838,196,816,139,782,85,760,61,735,42,692,22,645,11,597,8,548,11,501,19,456,29,382,54,381,49,455,24,500,13,547,6,597,3,646,6,693,17,738,38,764,57,786,81,821,137,843,195,857,244"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a8baf6cd60c0807e9e91054132db5183f" title=" " alt="" coords="481,52,736,95"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="842,247,824,214,800,176,770,140,735,109,715,97,717,93,738,104,774,136,805,173,829,211,847,245"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a707086401a09fd8b2f07d65a1f95fd72" title=" " alt="" coords="506,201,711,244"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="769,263,703,247,704,242,770,257"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a77fe1b124acb1dd1bd3f2d7f104035cf" title=" " alt="" coords="246,231,414,273"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="769,279,414,259,415,254,769,274"/>
+<area shape="rect" id="Node000012" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a542b6ab60fcbb7b17a9e203df367ca01" title=" " alt="" coords="508,319,709,377"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="770,308,711,324,709,319,769,303"/>
+<area shape="rect" id="Node000014" href="$namespace_fiea_1_1_engine_1_1_tests.html#a6fef2096c3071aeedc84a735d125856c" title=" " alt="" coords="542,401,676,444"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="833,316,790,355,738,392,708,405,677,414,676,409,706,400,735,387,787,351,830,312"/>
+<area shape="rect" id="Node000015" href="$namespace_fiea_1_1_engine_1_1_tests.html#a376f9ed8237603ebeb822c9076f2f630" title=" " alt="" coords="542,468,676,511"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="847,318,829,352,805,390,774,427,738,458,708,474,677,483,675,478,706,469,735,454,770,423,800,387,824,349,842,316"/>
+<area shape="rect" id="Node000016" href="$namespace_fiea_1_1_engine_1_1_tests.html#ad3e53e7e3f072321bc7199970c619c1d" title=" " alt="" coords="542,535,676,577"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="855,319,840,366,816,421,783,477,762,503,738,525,709,542,677,552,676,547,707,537,735,521,758,499,778,474,811,419,835,364,849,317"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="498,121,412,98,413,93,500,116"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_action_list_handler.html#ae0f8b6534bcf602df112f39202c79ecc" title=" " alt="" coords="256,119,404,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="498,151,404,151,404,145,498,145"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_action_handler.html#a392af20cfeb37d539b88183bc9672f7a" title=" " alt="" coords="5,52,179,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,76,179,76,179,71,211,71"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="465,76,434,76,434,71,465,71"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="491,238,415,246,414,241,491,232"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_game_object_handler.html#a626573aebcd7beceb84dbd69bc15105b" title=" " alt="" coords="14,140,170,199"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="251,228,169,199,171,194,253,223"/>
+<area shape="rect" id="Node000010" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_factory_handler.html#ae5e7d2b134d20238fa9be43f936bf80b" title=" " alt="" coords="14,223,170,281"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="230,255,170,255,170,249,230,249"/>
+<area shape="rect" id="Node000011" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_handler.html#a593999f6a2df6002af8db4629d8a0176" title=" " alt="" coords="5,305,179,348"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="246,281,163,307,162,302,244,276"/>
+<area shape="rect" id="Node000013" href="$class_fiea_1_1_engine_1_1_content_1_1_action_while_param_handler.html#a0d3cab60b559a3be182c4534883d4614" title=" " alt="" coords="239,319,421,377"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="492,351,422,351,422,345,492,345"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Fiea::Engine::Tests::TestGameObject" name="Fiea::Engine::Tests::TestGameObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="146,364,280,407"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_game_object.html" title=" " alt="" coords="125,288,300,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,330,216,364,210,364,210,330"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html" title=" " alt="" coords="5,173,154,216"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,224,198,285,195,289,116,228"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html" title=" " alt="" coords="5,81,154,124"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,140,82,173,77,173,77,140"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html" title=" " alt="" coords="14,5,145,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="82,48,82,81,77,81,77,48"/>
+<area shape="rect" id="Node000006" href="$struct_fiea_1_1_engine_1_1_transform.html" title=" " alt="" coords="178,181,339,208"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="249,223,221,289,216,287,244,221"/>
+</map>

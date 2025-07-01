@@ -1,0 +1,17 @@
+<map id="Fiea::Engine::Content::Attributed::operator=" name="Fiea::Engine::Content::Attributed::operator=">
+<area shape="rect" id="Node000001" title="Move assignment operator." alt="" coords="5,63,154,105"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#ad1ae014235d9d8b62b36066c94164148" title=" " alt="" coords="202,29,351,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,69,186,63,187,69,155,74"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#abb1ebfa662badfce689226c18a8bf02c" title="Copy assignment operator." alt="" coords="202,96,350,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="155,94,188,100,187,105,154,99"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,29,237,19,243,10,257,5,276,3,298,5,310,11,308,16,296,10,276,8,258,10,247,15,242,21,244,28"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a9d741d7fb95ccb49ee35dd6d9f779f1e" title="Clears all data in the Scope." alt="" coords="399,67,547,109"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="351,104,384,99,384,104,351,109"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a6631343c968c233ab1d9c3e05c3f4fe9" title=" " alt="" coords="792,75,940,117"/>
+<area shape="poly" id="edge9_Node000003_Node000006" title=" " alt="" coords="351,117,399,119,547,119,776,102,777,108,547,124,399,124,351,123"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ac4627f740867a929957ce0647f436e02" title=" " alt="" coords="595,16,744,59"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="547,66,580,58,581,63,548,71"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="548,87,776,92,776,97,548,92"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="744,57,779,67,777,72,742,62"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="828,75,827,65,833,56,846,50,866,48,887,50,900,57,897,61,886,56,866,53,847,55,836,60,832,66,833,74"/>
+</map>

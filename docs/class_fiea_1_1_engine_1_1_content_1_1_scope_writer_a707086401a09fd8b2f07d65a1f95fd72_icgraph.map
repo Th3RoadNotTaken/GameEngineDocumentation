@@ -1,0 +1,11 @@
+<map id="Fiea::Engine::Content::ScopeWriter::AddGameObject" name="Fiea::Engine::Content::ScopeWriter::AddGameObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="443,96,647,139"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a77fe1b124acb1dd1bd3f2d7f104035cf" title=" " alt="" coords="227,96,395,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,120,396,120,396,115,427,115"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_game_object_handler.html#a626573aebcd7beceb84dbd69bc15105b" title=" " alt="" coords="14,5,170,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,93,169,67,171,62,239,88"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_factory_handler.html#ae5e7d2b134d20238fa9be43f936bf80b" title=" " alt="" coords="14,88,170,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="212,120,170,120,170,115,212,115"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_handler.html#a593999f6a2df6002af8db4629d8a0176" title=" " alt="" coords="5,171,179,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="232,147,158,173,156,168,230,142"/>
+</map>

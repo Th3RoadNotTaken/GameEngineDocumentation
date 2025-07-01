@@ -1,0 +1,7 @@
+<map id="Fiea::Engine::GameObject::GetChildCount" name="Fiea::Engine::GameObject::GetChildCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,181,81"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Finds a Datum by key." alt="" coords="229,5,377,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,43,213,38,214,43,181,49"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#acae68c3bc8b20345e4c3790fa37bd8d5" title=" " alt="" coords="229,72,377,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,71,214,77,213,82,181,77"/>
+</map>

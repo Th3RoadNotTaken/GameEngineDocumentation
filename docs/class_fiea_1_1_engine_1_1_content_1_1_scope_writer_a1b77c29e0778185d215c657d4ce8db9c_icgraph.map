@@ -1,0 +1,15 @@
+<map id="Fiea::Engine::Content::ScopeWriter::RemoveObject" name="Fiea::Engine::Content::ScopeWriter::RemoveObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="236,204,431,247"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_action_handler.html#a7bb21557e00fecfa721f31c081f22197" title=" " alt="" coords="14,5,179,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,193,257,127,223,92,186,62,166,51,169,46,189,58,227,88,261,123,312,189"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_action_list_handler.html#ae7cb74bd223f8fb982294c55f37b6f34" title=" " alt="" coords="22,72,171,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,198,186,145,163,134,166,129,189,140,284,193"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_action_while_param_handler.html#a99a63537cd8df27c081a1ef309798de5" title=" " alt="" coords="5,155,188,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,208,188,203,189,197,221,203"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_game_object_handler.html#ad8aacedea1decdcd423c996afd85a872" title=" " alt="" coords="19,237,174,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="221,248,175,256,174,250,220,242"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_factory_handler.html#a9887b2afe14d6c6d7131f3ad7f14f20b" title=" " alt="" coords="19,320,174,379"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="284,257,189,310,166,322,163,317,186,306,282,253"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_handler.html#a1ccddb11e976a4c42d542567ccfee2b3" title=" " alt="" coords="14,403,179,445"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="312,261,261,327,227,362,189,393,169,404,166,400,186,388,223,358,257,324,308,258"/>
+</map>

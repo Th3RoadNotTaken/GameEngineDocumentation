@@ -1,0 +1,9 @@
+<map id="Fiea::Engine::Content::Attributed::Attributed" name="Fiea::Engine::Content::Attributed::Attributed">
+<area shape="rect" id="Node000001" title="Constructor that initializes class attributes based on the provided class definition generator." alt="" coords="5,72,155,115"/>
+<area shape="rect" id="Node000002" href="$struct_fiea_1_1_engine_1_1_content_1_1_i_type_provider.html#a98897793b1bb048c7ca5f163351a239b" title=" " alt="" coords="203,5,430,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,70,223,50,224,55,156,75"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_service_manager.html#a8aac9b15b7e5483c2b1cd5febe590a0c" title=" " alt="" coords="218,72,414,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,91,202,91,202,96,155,96"/>
+<area shape="rect" id="Node000004" href="$struct_fiea_1_1_engine_1_1_content_1_1_i_type_registrar.html#ae0024f9913620e335da1dc242b1e29e0" title=" " alt="" coords="217,139,416,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,112,224,131,223,136,155,117"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Microsoft::VisualStudio::CppUnitTestFramework::AttributeBoxPlus" name="Microsoft::VisualStudio::CppUnitTestFramework::AttributeBoxPlus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,401,224,460"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_attribute_box.html" title=" " alt="" coords="64,309,218,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,368,144,401,138,401,138,368"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html" title=" " alt="" coords="5,216,154,259"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,270,129,307,125,310,100,273"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html" title=" " alt="" coords="13,81,162,124"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,140,83,216,78,215,83,140"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html" title=" " alt="" coords="79,5,210,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="130,46,104,83,99,80,125,43"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_foo.html" title=" " alt="" coords="134,148,268,191"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="161,45,177,80,198,147,193,148,172,82,156,47"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="190,206,151,310,146,308,185,204"/>
+</map>

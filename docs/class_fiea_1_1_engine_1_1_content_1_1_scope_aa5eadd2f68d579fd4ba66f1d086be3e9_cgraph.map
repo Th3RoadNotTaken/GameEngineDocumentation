@@ -1,0 +1,11 @@
+<map id="Fiea::Engine::Content::Scope::~Scope" name="Fiea::Engine::Content::Scope::~Scope">
+<area shape="rect" id="Node000001" title="Destructor. Clears the Scope." alt="" coords="5,35,154,77"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a9d741d7fb95ccb49ee35dd6d9f779f1e" title="Clears all data in the Scope." alt="" coords="202,35,350,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,53,186,53,186,59,154,59"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ac4627f740867a929957ce0647f436e02" title=" " alt="" coords="398,5,546,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,42,382,37,383,43,351,48"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a6631343c968c233ab1d9c3e05c3f4fe9" title=" " alt="" coords="594,35,743,77"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="351,56,398,57,546,57,578,57,579,62,546,63,398,63,351,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="547,35,579,40,578,45,546,40"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="631,35,629,25,636,16,649,10,669,8,690,10,702,17,700,21,688,16,668,13,650,15,639,20,635,26,636,34"/>
+</map>

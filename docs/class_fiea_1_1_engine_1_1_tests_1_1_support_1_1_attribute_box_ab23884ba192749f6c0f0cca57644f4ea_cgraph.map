@@ -1,0 +1,25 @@
+<map id="Fiea::Engine::Tests::Support::AttributeBox::~AttributeBox" name="Fiea::Engine::Tests::Support::AttributeBox::~AttributeBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,204,160,263"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_attribute_box.html#a34f45b998e8a66f5af932440f8c987ba" title=" " alt="" coords="208,112,362,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,201,204,175,206,180,150,206"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a13000029a2e6cced30b831e466e07cae" title=" " alt="" coords="820,108,952,151"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="161,257,281,289,355,302,435,312,518,316,601,311,684,296,762,268,794,248,823,220,846,191,864,163,868,166,850,194,827,224,798,252,764,273,685,301,602,316,518,321,434,317,354,308,280,294,159,262"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#ad1ae014235d9d8b62b36066c94164148" title=" " alt="" coords="410,29,559,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,109,409,82,420,76,422,81,411,86,352,114"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a876bebbe7b3149483c43a87f55f4ea99" title=" " alt="" coords="419,120,550,163"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="362,139,404,139,404,144,362,144"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="446,29,445,19,451,10,465,5,485,3,506,5,519,11,517,16,505,10,485,8,466,10,455,15,450,21,452,28"/>
+<area shape="poly" id="edge13_Node000004_Node000004" title=" " alt="" coords="446,120,445,110,451,101,465,95,485,93,506,96,519,102,517,107,505,101,485,99,466,101,455,105,450,111,452,119"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a15bd5993c8ad04da47af440298ebbb30" title=" " alt="" coords="607,48,763,75"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="539,117,635,78,637,83,541,122"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#ac0a7d875e4513b2aca7594abcd4418ef" title=" " alt="" coords="811,32,961,59"/>
+<area shape="poly" id="edge10_Node000004_Node000006" title=" " alt="" coords="514,117,557,82,579,55,590,44,606,34,660,19,717,15,771,18,819,26,818,31,770,23,717,20,661,24,608,38,593,48,583,59,561,86,517,122"/>
+<area shape="poly" id="edge11_Node000004_Node000007" title=" " alt="" coords="551,136,607,135,804,129,805,134,607,140,551,142"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a7f70ad5ba0f8a3388543d63d72892575" title=" " alt="" coords="619,149,751,192"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="551,148,604,156,603,161,550,154"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a43a7d187e332a17d2c699bc2c8136a30" title=" " alt="" coords="619,216,751,259"/>
+<area shape="poly" id="edge12_Node000004_Node000009" title=" " alt="" coords="528,161,608,202,620,207,617,212,606,206,525,166"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="763,52,795,50,795,55,763,58"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="728,73,807,100,805,105,726,78"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="751,155,805,143,806,149,752,160"/>
+</map>

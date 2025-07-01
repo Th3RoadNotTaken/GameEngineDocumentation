@@ -1,0 +1,9 @@
+<map id="Fiea::Engine::Content::Attributed::Attributed" name="Fiea::Engine::Content::Attributed::Attributed">
+<area shape="rect" id="Node000001" title="Copy constructor for Attributed." alt="" coords="5,75,155,117"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#ad1ae014235d9d8b62b36066c94164148" title=" " alt="" coords="203,29,352,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,76,187,69,188,74,156,81"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a6631343c968c233ab1d9c3e05c3f4fe9" title=" " alt="" coords="203,120,352,163"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="156,111,189,118,187,123,154,116"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,29,238,19,244,10,258,5,277,3,299,5,311,11,309,16,297,10,277,8,259,10,248,15,243,21,245,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="239,120,238,110,244,101,258,95,277,93,299,96,311,102,309,107,297,101,277,99,259,101,248,105,243,111,245,119"/>
+</map>

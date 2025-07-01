@@ -1,0 +1,8 @@
+<map id="Fiea::Engine::Content::Scope::Orphan" name="Fiea::Engine::Content::Scope::Orphan">
+<area shape="rect" id="Node000001" title="Removes this Scope from its parent." alt="" coords="384,35,532,77"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#abf39accc1ce38b12bcbc6884ba0165e3" title="Adopts an existing Scope as a child under the specified key." alt="" coords="188,5,336,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="368,45,336,40,337,35,369,40"/>
+<area shape="rect" id="Node000003" href="$namespace_fiea_1_1_engine_1_1_tests.html#ad3e53e7e3f072321bc7199970c619c1d" title=" " alt="" coords="5,35,140,77"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="368,62,336,63,188,63,140,61,140,56,188,57,336,57,368,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,43,141,48,140,43,172,38"/>
+</map>

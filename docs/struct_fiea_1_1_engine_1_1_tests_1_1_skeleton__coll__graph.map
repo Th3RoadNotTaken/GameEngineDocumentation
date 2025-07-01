@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Tests::Skeleton" name="Fiea::Engine::Tests::Skeleton">
+<area shape="rect" id="Node000001" title="Basic skeleton, which is just a collection of bones that will form a tree extending from the root." alt="" coords="5,120,140,163"/>
+<area shape="rect" id="Node000002" href="$struct_fiea_1_1_engine_1_1_tests_1_1_bone.html" title="Bone is the heart of this system. Each bone can be visualized as a ball joint, which is anchored at t..." alt="" coords="5,5,140,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,64,75,120,70,120,70,64"/>
+</map>

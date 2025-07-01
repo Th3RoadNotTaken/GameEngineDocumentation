@@ -1,0 +1,15 @@
+<map id="Fiea::Engine::GameObject::AddAction" name="Fiea::Engine::GameObject::AddAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,181,115"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#aa91d6470fd3d3f402bbb2e765be54455" title="Appends a new Datum with the given key." alt="" coords="229,5,377,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,69,218,51,220,56,163,74"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Finds a Datum by key." alt="" coords="229,72,377,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,91,213,91,213,96,181,96"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#acb3ba55fc9b39b876cf3334d0305f4fc" title=" " alt="" coords="229,139,377,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,113,220,131,218,136,161,118"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a818f812e4489e57885c88951bc0601b3" title=" " alt="" coords="425,109,573,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="377,146,409,141,410,147,378,152"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a921193447f6e42f596ac0a7694b02830" title=" " alt="" coords="621,139,770,181"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="378,160,425,161,573,161,605,161,606,166,573,167,425,167,378,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="574,139,606,144,605,149,573,144"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="658,139,656,129,663,120,676,114,696,112,717,114,729,121,727,125,715,120,695,117,677,119,666,124,662,130,663,138"/>
+</map>

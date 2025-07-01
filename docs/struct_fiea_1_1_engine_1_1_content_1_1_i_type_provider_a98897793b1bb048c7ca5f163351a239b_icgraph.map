@@ -1,0 +1,28 @@
+<map id="Fiea::Engine::Content::ITypeProvider::GetClassDefinition" name="Fiea::Engine::Content::ITypeProvider::GetClassDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="922,241,1149,284"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#adff35ee5e52ab504651c9ba6743b6776" title="Constructor that initializes class attributes based on the provided class definition generator." alt="" coords="705,120,855,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="984,235,873,177,845,166,847,161,875,172,986,231"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#ab4d8bae8360da2a6204951e3a3791046" title="Retrieves all class attribute names." alt="" coords="196,287,379,329"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="906,273,380,305,379,300,906,268"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#afb5756182b73d6326b8021f88ee51877" title="Retrieves all instance attribute names." alt="" coords="188,220,387,263"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="906,262,387,247,388,241,906,256"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#af9a419e6aa1b52eed4c923a89931771e" title="Checks if a given key is a class attribute." alt="" coords="686,187,874,229"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="917,240,874,231,875,225,918,235"/>
+<area shape="rect" id="Node000004" href="$namespace_fiea_1_1_engine_1_1_tests.html#ad7d06bf277bf903f5dbc3982540b1563" title=" " alt="" coords="5,111,140,153"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="192,281,186,277,169,261,159,245,137,209,91,155,95,152,142,206,163,242,173,257,189,272,195,276"/>
+<area shape="rect" id="Node000005" href="$namespace_fiea_1_1_engine_1_1_tests.html#a3cdcf27a81b8b07fd7e0f633fb413ca8" title=" " alt="" coords="5,220,140,263"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="202,284,139,265,141,260,203,279"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="229,215,115,156,117,151,231,210"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="172,244,140,244,140,239,172,239"/>
+<area shape="poly" id="edge16_Node000007_Node000004" title=" " alt="" coords="690,181,685,177,668,158,660,139,652,122,637,105,575,66,520,46,462,36,387,27,285,9,242,11,189,26,158,43,131,66,91,112,86,108,127,62,155,39,187,21,241,6,286,4,387,21,462,31,522,41,577,61,640,100,657,119,665,137,673,155,688,173,693,176"/>
+<area shape="poly" id="edge17_Node000007_Node000005" title=" " alt="" coords="718,238,570,296,480,324,388,344,331,354,286,361,241,359,187,344,156,328,129,307,88,265,92,261,133,303,159,324,189,339,242,354,286,356,330,349,386,339,478,318,568,291,716,233"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a7fc54279fcfc7c8bd925e6b47e396446" title="Appends a new instance attribute." alt="" coords="194,36,381,95"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="699,183,685,177,661,164,637,152,572,130,504,111,381,84,382,78,506,106,573,124,639,147,664,159,687,172,701,178"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a2bf121c3108ae47b421b831a88b19a49" title="Checks if a given key is an instance attribute." alt="" coords="435,161,638,204"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="671,199,638,196,639,190,671,194"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="180,101,141,114,139,109,178,96"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="240,107,102,222,98,217,237,103"/>
+<area shape="poly" id="edge14_Node000009_Node000004" title=" " alt="" coords="419,170,387,167,140,141,140,136,387,161,420,165"/>
+<area shape="poly" id="edge15_Node000009_Node000005" title=" " alt="" coords="420,188,307,195,188,210,141,222,139,217,187,205,307,190,419,182"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="429,211,382,222,381,217,428,205"/>
+</map>
